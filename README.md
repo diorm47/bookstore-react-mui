@@ -1,3 +1,6 @@
 # React.js MaterialUI online Book shop
 
-demo:  https://bookstore-rho.vercel.app/
+Bookshop web-application layout developed in React.js and MaterialUI
+with any features: searching and adding to cart
+
+Demo:  https://bookstore-rho.vercel.app
